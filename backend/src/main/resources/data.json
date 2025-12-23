@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Engineering",
+    "location": "Floor 4",
+    "employees": [
+      {
+        "name": "Alice Johnson",
+        "email": "alice@company.com",
+        "role": "Senior Developer",
+        "salary": 120000
+      },
+      {
+        "name": "Bob Smith",
+        "email": "bob@company.com",
+        "role": "QA Engineer",
+        "salary": 90000
+      }
+    ]
+  },
+  {
+    "name": "Marketing",
+    "location": "Floor 2",
+    "employees": [
+      {
+        "name": "Charlie Day",
+        "email": "charlie@company.com",
+        "role": "Social Media Manager",
+        "salary": 70000
+      },
+      {
+        "name": "Hector Ramirez",
+        "email": "hector@company.com",
+        "role": "Visual Media Designer",
+        "salary": 70000
+      }
+    ]
+  },
+  {
+    "name": "Customer Service",
+    "location": "Floor 1",
+    "employees": [
+      {
+        "name": "Rachael White",
+        "email": "rachael@company.com",
+        "role": "Secretary",
+        "salary": 70000
+      }
+    ]
+  }
+]
